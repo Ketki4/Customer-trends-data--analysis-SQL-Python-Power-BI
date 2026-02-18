@@ -43,5 +43,4 @@ This file contains:
 
 14.Create project report
 
-15.Build presentation deck using Gamma AI
 
